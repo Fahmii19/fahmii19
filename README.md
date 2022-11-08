@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💼 My name is Muchamad Fahmi<br>🏠 Live in Depok, Indonesia<br>🧍🏻‍♂️ 21 years old<br>💻 Technical Information Student at Sekolah Tinggi Teknologi Terpadu Nurul Fikri (STT-NF)<br>🌟 Currently, PHP and Javascript are my favorite programming languages.
+👨🏻‍💼 My name is Muchamad Fahmi<br>🏠 Live in Depok, Indonesia<br>💻 Technical Information Student at Sekolah Tinggi Teknologi Terpadu Nurul Fikri (STT-NF)<br>🌟 Currently, PHP and Javascript are my favorite programming languages.
 
 
 ## 🌐 Socials:
